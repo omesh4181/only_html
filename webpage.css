@@ -1,0 +1,133 @@
+div{
+    margin-top: 30px;
+}
+#button1{
+    background-color: #ff2052;
+    color: #ffffff;
+    /* font-style: oblique; */
+    font-size: x-large;
+    padding: 9px 18px;
+    border-radius: 9px;
+    text-decoration: none;
+}
+#h1{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 70px; 
+    color: #ffffff;
+}
+#p1{
+    text-align: center;
+    font-size: 28px;
+    color: #000000;
+    color: #ffffff;
+}
+#button2{
+    background-color: orange;
+    color: #ffffff;
+    text-decoration: none;
+    /* text-align: center; */
+    padding: 9px 18px;
+    font-size: x-large;
+    border-radius: 19px;
+    color: #ffffff;
+}
+#p2{
+    font-size: 20px;
+    color: #ffffff;
+}
+#div1{
+    background-color: blue;
+}
+#h3{
+    font-size: 56px;
+    text-align: center;
+}
+#h4{
+    font-size: 28px;
+}
+
+#li1{
+    font: 20px;
+    padding: 0px 0px 0px 10px;
+    margin-top: 9px;
+}
+#li2{
+    font: 30px;
+    padding: 0px 0px 0px 10px;
+    margin-top: 9px;
+}
+#li3{
+    font: 20px;
+    padding: 0px 0px 0px 5px;
+    margin-top: 9px;
+}
+ #p3{
+    font-size: 20px;
+ }  
+ #img1{
+    margin-left: 80px;
+    color: #ffffff;
+} 
+#h4{
+    font-size: 50px;
+    text-align: center;
+}
+#img2{
+    border-radius: 50%; 
+    padding-right: 50px;
+    margin-left: 35px;   
+}
+#p4{
+    padding-right: 50px;
+    margin-right: 40px;
+
+}    
+#img3{
+    padding-left: 50px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+#p5{
+    padding-right: 25px;
+    margin-left: 20px;
+}
+#img4{
+    padding-left: 70px;
+    border-radius: 50%;
+}
+#p6{
+    margin-left: 50px;
+}
+#name{
+    margin-left: 30px;
+}
+#body{
+    margin-top: 40px;
+    padding-left: 90%;
+}
+/* login.html */
+#div2{
+    margin-left: 77%;
+    width: 150px;
+    height: 40px;
+}
+#div3{
+    margin-left: 80%;
+}
+#input{
+    margin-left: 77%;
+    color: #1877f2;
+    padding: 20px;
+    margin-top: 20px;
+}
+#span1{
+    /* margin: 10px 0 20px; */
+    margin-left: 65%;
+    line-height: 0.2em;
+    border-bottom:px solid #c4c6c8;
+    text-align: center;
+}
+#display{
+    display: block;
+}
